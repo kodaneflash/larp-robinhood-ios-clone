@@ -1,4 +1,4 @@
-# Larp Robinhood iOS App Clone — Portfolio & Options UI Demo
+# Fake 1:1 Robinhood Larp iOS App Clone IPA
 
 An **unofficial Robinhood-style iPhone app simulation** from Larp Apps. Explore a native-feeling investing interface with portfolio charts, stock and ETF views, options positions, and connected trade history. It is intended for interface demonstrations and fictional scenarios; displayed activity is not evidence of a real brokerage account or investment performance.
 
