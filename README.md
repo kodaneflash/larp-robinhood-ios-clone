@@ -17,9 +17,9 @@
 
 ## Watch the Robinhood showcase
 
-[![Preview of the Larp Robinhood iOS app showcase video](media/robinhood-showcase-preview.jpg)](media/robinhood-showcase.mp4)
+https://github.com/user-attachments/assets/edaf8c4b-126a-4b37-abf9-e06e63e611aa
 
-[Watch the full Robinhood showcase video (MP4, 1 min 58 sec)](media/robinhood-showcase.mp4).
+[Watch the full-quality Robinhood showcase video (MP4, 1 min 58 sec)](media/robinhood-showcase.mp4).
 
 ## What the Robinhood-style demo includes
 
