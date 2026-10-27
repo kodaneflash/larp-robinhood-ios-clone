@@ -14,11 +14,49 @@ An **unofficial Robinhood-style iPhone app simulation** from Larp Apps. Explore 
 
 ## What the Robinhood-style demo includes
 
-- Investing home screen with a portfolio chart, multiple time ranges, buying power, and holdings.
-- Stock and ETF detail views with charts, prices, and position information.
-- Options positions, contract details, and simulated open and close flows.
-- Linked filled-order screens, trade history, and realized profit and loss views.
-- News, options chains, and a strategy-oriented interface for walkthroughs.
+**Robinhood, the first and only 1:1 larp brokerage app.**
+
+⚠️ **@richofflarp**
+
+**HOME / INVEST**
+
+1:1 Robinhood Invest screen with a live portfolio chart, multiple time ranges, stock/ETF holdings, and options positions with real-time value updates.
+
+**STOCKS & ETFS**
+
+View stock and ETF detail pages with charts, performance tracking, position value, gain/loss, price movement, and trades. Holdings update automatically.
+
+**OPTIONS TRADING**
+
+Open and close options positions with contract values powered by IV and Greeks. P/L updates automatically, and trade history stays tied to the exact contract traded.
+
+**FILLED ORDER SCREEN**
+
+Completed options trades generate detailed filled-order screens including contract, order type, open/close effect, quantity, price, timestamps, fees, credit/debit, and realized P/L.
+
+**REALIZED PROFIT & LOSS**
+
+P/L history for closed options trades, including summaries, chart bars, and automatically generated historical trade rows.
+
+**6TRACT SCANNER**
+
+Scan options contracts to see which performed best over a selected time period.
+
+**PORTFOLIO**
+
+Track portfolio performance, account growth, stock activity, and options activity in one view.
+
+**NEWS FEED**
+
+Real-time market news feed with dynamic cards, publishers, thumbnails, ticker movement
+
+**OPTIONS CHAINS & STRATEGY BUILDER**
+
+Robinhood real-time options chains for simulated trading, livestream demos, and strategy testing. Browse calls and puts across expirations with buy/sell and call/put toggles.
+
+**DOCUMENTS & STATEMENTS**
+
+Dynamically generated Robinhood documents and reports, including brokerage statements, annual reports, monthly statements populated from trades, balances, and activity.
 
 The product page has the current feature overview, previews, and availability. This repository is a **product overview**, not the app source code or an official download channel.
 
