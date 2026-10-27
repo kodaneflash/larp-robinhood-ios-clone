@@ -1,8 +1,17 @@
 # Fake 1:1 Robinhood Larp iOS App Clone IPA
 
-An **unofficial Robinhood-style iPhone app simulation** from Larp Apps. Explore a native-feeling investing interface with portfolio charts, stock and ETF views, options positions, and connected trade history. It is intended for interface demonstrations and fictional scenarios; displayed activity is not evidence of a real brokerage account or investment performance.
+# Fake 1:1 Robinhood Larp iOS App Clone IPA with Features include but not limited to:
 
-[![Explore the Robinhood demo on Larp Apps](https://img.shields.io/badge/Explore%20the%20Robinhood%20Demo-Larp%20Apps-2563eb?style=for-the-badge)](https://larpapps.com/robinhood) [![Join the Larp Apps Telegram](https://img.shields.io/badge/Join%20the%20Community-Telegram-229ED9?style=for-the-badge)](https://t.me/larpappz)
+- Live portfolio charts + multiple time ranges
+- Stocks & ETFs with automatically updated holdings
+- Options trading powered by real market data (IV + Greeks)
+- Filled orders with contract details, fees + timestamps
+- Realized P/L charts + trade history
+- Options contract performance scanner
+- Options chains + strategy builder
+- Generated statements + reports from past activity (simulated trades are dynamically wired)
+
+[![Explore the Robinhood demo on Larp Apps](https://img.shields.io/badge/Explore%20the%20Robinhood%20Demo-Larp%20Apps-2563eb?style=for-the-badge)](https://larpapps.com/robinhood) [![Join Telegram Group](https://img.shields.io/badge/Join-Telegram%20Group-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/larpappz)
 
 **Quick links:** [Larp Apps website](https://larpapps.com) · [Robinhood product page](https://larpapps.com/robinhood) · [Telegram community](https://t.me/larpappz)
 
@@ -10,13 +19,11 @@ An **unofficial Robinhood-style iPhone app simulation** from Larp Apps. Explore 
 
 [![Preview of the Larp Robinhood iOS app showcase video](media/robinhood-showcase-preview.jpg)](media/robinhood-showcase.mp4)
 
-[Watch the full Robinhood showcase video (MP4, 1 min 58 sec)](media/robinhood-showcase.mp4). The video demonstrates the simulated app interface and its portfolio and options screens.
+[Watch the full Robinhood showcase video (MP4, 1 min 58 sec)](media/robinhood-showcase.mp4).
 
 ## What the Robinhood-style demo includes
 
 **Robinhood, the first and only 1:1 larp brokerage app.**
-
-⚠️ **@richofflarp**
 
 **HOME / INVEST**
 
@@ -60,9 +67,7 @@ Dynamically generated Robinhood documents and reports, including brokerage state
 
 The product page has the current feature overview, previews, and availability. This repository is a **product overview**, not the app source code or an official download channel.
 
-## Looking for a Robinhood iOS UI demo?
-
-If your search is for a *Robinhood app clone*, *Robinhood-style portfolio demo*, or *options trading UI simulation for iPhone*, start with the [Larp Robinhood product page](https://larpapps.com/robinhood). For updates and questions, [join the Larp Apps Telegram](https://t.me/larpappz).
+[![Join the Larp Apps Telegram group](https://img.shields.io/badge/Join-Telegram%20Group-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/larpappz)
 
 ## Important distinction
 
