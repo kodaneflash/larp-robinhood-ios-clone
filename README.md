@@ -6,6 +6,12 @@ An **unofficial Robinhood-style iPhone app simulation** from Larp Apps. Explore 
 
 **Quick links:** [Larp Apps website](https://larpapps.com) · [Robinhood product page](https://larpapps.com/robinhood) · [Telegram community](https://t.me/larpappz)
 
+## Watch the Robinhood showcase
+
+[![Preview of the Larp Robinhood iOS app showcase video](media/robinhood-showcase-preview.jpg)](media/robinhood-showcase.mp4)
+
+[Watch the full Robinhood showcase video (MP4, 1 min 58 sec)](media/robinhood-showcase.mp4). The video demonstrates the simulated app interface and its portfolio and options screens.
+
 ## What the Robinhood-style demo includes
 
 - Investing home screen with a portfolio chart, multiple time ranges, buying power, and holdings.
